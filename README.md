@@ -75,3 +75,5 @@ Previously, I founded **Sapientury** (EdTech), where we built career-focused sys
 - [LinkedIn](https://www.linkedin.com/in/kush-murthy/)
 - [GitHub](https://github.com/Kush52662)
 
+
+<!-- profile-refresh: 2026-03-03T11:05:00-08:00 -->
